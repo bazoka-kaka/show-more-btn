@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.more-text {
+  display: none;
+}
+
+.show-more {
+  display: inline;
+}

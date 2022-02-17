@@ -1,0 +1,13 @@
+CREATE READ MORE 
+================
+
+- to make paragraph automatically, 
+you can just do "lorem[numOfParagraph]" 
+
+example:
+lorem20 
+
+note:
+this is gonna give you 20 characters 
+long paragraph of lorem ipsum 
+
